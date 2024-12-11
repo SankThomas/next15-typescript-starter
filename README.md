@@ -1,5 +1,7 @@
 ### NextJs 15 TypeScript Starter with ShadCN, TailwindCSS and Prettier Plugin For TailwindCSS
 
+This template uses the `src` folder and the App router.
+
 Why did I choose these?
 
 - ShadCN: An amazing component library [https://ui.shadcn.com](https://ui.shadcn.com).
